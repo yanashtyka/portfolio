@@ -1,0 +1,1 @@
+#sidebar .nav.nav-list .banner a{padding:0}#sidebar .nav.nav-list .banner img{height:auto}#sidebar .nav.nav-list .banner .menu-icon{display:none}#sidebar.menu-min .nav.nav-list .banner .menu-icon{display:inline-block}#tell_us_whats_wrong{top:0}@media(min-width: 768px){#tell_us_whats_wrong{top:30%}}/*# sourceMappingURL=user-client.min.css.map */

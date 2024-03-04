@@ -1,0 +1,1 @@
+(function(){"use strict";function e(e){const t=e.parentElement;t.appendChild(e)}document.addEventListener("DOMContentLoaded",t=>{document.querySelectorAll("tr.bf_upload_files").forEach(e)})})(jQuery);

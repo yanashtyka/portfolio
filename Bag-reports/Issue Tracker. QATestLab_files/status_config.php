@@ -1,0 +1,12 @@
+.status-10-fg { color: #fcbdbd; }
+.status-10-bg { background-color: #fcbdbd; }
+.status-20-fg { color: #e3b7eb; }
+.status-20-bg { background-color: #e3b7eb; }
+.status-25-fg { color: #ff9800; }
+.status-25-bg { background-color: #ff9800; }
+.status-50-fg { color: #c2dfff; }
+.status-50-bg { background-color: #c2dfff; }
+.status-80-fg { color: #d2f5b0; }
+.status-80-bg { background-color: #d2f5b0; }
+.status-90-fg { color: #c9ccc4; }
+.status-90-bg { background-color: #c9ccc4; }
